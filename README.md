@@ -3,9 +3,11 @@
 <h4 style="font-size: 20px; text-align: center;">Programmer with passion, attention to detail and troubleshooting skills. Proficiency multiple programming languages and technologies. Strive to write clean, efficient code in line with industry trends. Solid team player who thrives in a dynamic environment to deliver high quality software solutions.</h4><hr>
 
 <h2 style="text-align: center">👩‍💻 Languages</h2>
+
 <div style="display: flex;">
 <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="csharp">
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="php">
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="csharp"> <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="php">
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript">
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html">
