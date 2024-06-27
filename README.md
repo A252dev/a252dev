@@ -1,6 +1,6 @@
 <h1 style="text-align: center; font-size: 30px;">🚀 About me</h1>
 
-<h4 style="font-size: 20px; text-align: center;">Programmer with passion, attention to detail and troubleshooting skills. Proficiency multiple programming languages and technologies. Strive to write clean, efficient code in line with industry trends. Solid team player who thrives in a dynamic environment to deliver high quality software solutions.</h4><hr>
+<h4 style="font-size: 20px; text-align: center;">Full-Stack Web Developer</h4><hr>
 
 <h2 style="text-align: center">👩‍💻 Languages</h2>
 
