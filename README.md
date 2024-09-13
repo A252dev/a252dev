@@ -1,3 +1,17 @@
+<h2 style="text-align: center">🚀 About Me</h2>
+
+<div style="display: flex;">
+<h4 style="text-align: center">• Java | Angular Full-Stack Developer</h4>
+<h4 style="text-align: center">• 3+ Years of commercial // freelance experience</h4>
+</div>
+
+<h2 style="text-align: center">📞 You can contact me here:</h2>
+
+<div style="display: flex;">
+<h4 style="text-align: center">• Telegram: @ufoDeveloper</h4>
+<h4 style="text-align: center">• Discord: a252dev</h4>
+</div>
+
 <h2 style="text-align: center">👩‍💻 Languages</h2>
 
 <div style="display: flex;">
@@ -27,6 +41,7 @@
 <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="angular">
 <img src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E" alt="vite">
 <img src="https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=white" alt="webpack">
+<img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="docker">
 </div>
 
 
