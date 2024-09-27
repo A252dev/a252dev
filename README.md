@@ -8,7 +8,7 @@
 <h2 style="text-align: center">📞 You can contact me here:</h2>
 
 <div style="display: flex;">
-<h4 style="text-align: center">• Telegram: @ufoDeveloper</h4>
+<h4 style="text-align: center">• Telegram: @a252dev</h4>
 <h4 style="text-align: center">• Discord: a252dev</h4>
 </div>
 
