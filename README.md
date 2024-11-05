@@ -85,7 +85,7 @@
 <img src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white" alt="microsoft-word">
 </div>
 
-<h2 style="text-align: center">💻 Other</h2>
+<h2>💻 Other</h2>
 
 <div style="display: flex;">
 <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="git">
