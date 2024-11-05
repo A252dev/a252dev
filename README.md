@@ -189,7 +189,7 @@
 ![csharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 
 
-### <a href="https://github.com/A252dev/MailSorter">11. DiamondStealer</a>
+### <a href="https://github.com/A252dev/MailSorter">11. MailSorter</a>
 
 <blockquote>A script that takes data from a txt file and sorts it by keyword, e.g. outlook.com.</blockquote>
 
